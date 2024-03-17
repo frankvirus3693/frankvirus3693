@@ -13,10 +13,10 @@
   <!--<a href="" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>-->
  </p>
  <p align="center">
-   <a href=""> <img src="https://komarev.com/ghpvc/?username=LnwMosDev&style=for-the-badge&color=brightgreen"/></a>
-   <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LnwMosDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href=""> <img src="https://komarev.com/ghpvc/?username=frankvirus3693&style=for-the-badge&color=brightgreen"/></a>
+   <a href=""><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/frankvirus3693?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
    <a href="">
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LnwMosDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/frankvirus3693?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
  </p>
 
 Hi ! My name is Kerkchai Chotthaisong
@@ -35,10 +35,9 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 ปัจจุบันผมศึกษาอยู่ชั้นปีที่ 3 สาขาวิชาเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏเชียงรายในประเทศไทย GitHub ของผมแสดงผลงานของผมจากโครงการวิชาการ โครงการส่วนตัว และประสบการณ์การเรียนรู้อื่นๆ
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [natdanai1170.com@gmail.com](mailto:natdanai1170.com@gmail.com)
+* ✉️  You can contact me at frankvirus3693@gmail.com
 * 🧠  I'm learning Web Development and Programming
 # Skills & Tools (Basic)
-<!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
 <table align="center">
   <tr>
@@ -130,9 +129,9 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnwMosDev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
 
-<nobr><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LnwMosDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<nobr><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frankvirus3693&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center"><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=LnwMosDev&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
+<p align="center"><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=frankvirus3693&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
 
 
