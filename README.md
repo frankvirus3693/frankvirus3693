@@ -2,8 +2,7 @@
 <!--![til](assets/images/dino.gif)-->
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=
-49E90D&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49E90D&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3+" alt="Typing SVG" /></a>
 </p>
 
 <br>
